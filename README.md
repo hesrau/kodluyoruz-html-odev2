@@ -11,6 +11,15 @@
 <H3>Hakkımda</H3>
 Merhaba. Ben Hatice E. ULUDAĞ. Antalya'da yaşıyorum. Genel olarak belli bir türde takılı değilim bu yüzden birçok türde kitap okumayı ve farklı konulara sahip film ve dizi izlemeyi seviyorum. Lisede bilişim bölümünde eğitim görüyorum  ve kendimi  daha fazla geliştirmek için Kodluyoruz'dan eğitim almaya karar verdim ve burayı sevdim diye bilirim.
 
+<h3>İlgi Alanlarım</h3>
+<ol>
+<li>Fİlm</li>
+<li>Dizi</li>
+<li>Kitap</li>
+</ol>
+
+
+
 <h2>Sevdiğim Kitaplar</h2>
 <h3>Sherlock Holmes</h3>
 Sherlock Holmes, Sir Arthur Conan Doyle tarafından oluşturulan hayali dedektif kahraman, polisiye edebiyatının önemli ilk figürlerinden biridir. Gazetelerde tefrika edilmiş, ve polisiyenin halk arasında popülerleşmesine vesile olmuştur. <p>
