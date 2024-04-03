@@ -38,7 +38,7 @@ Merhaba. Ben Hatice E. ULUDAĞ. Antalya'da yaşıyorum. Genel olarak belli bir t
 
 <h2>Sevdiğim Kitaplar</h2>
 <h3>Sherlock Holmes</h3>
-![sherlockresim](https://github.com/hesrau/kodluyoruz-html-odev2/assets/158181030/01b36f6a-7ca2-44a2-9603-0d92711309de)
+<img src=![sherlockresim](https://github.com/hesrau/kodluyoruz-html-odev2/assets/158181030/01b36f6a-7ca2-44a2-9603-0d92711309de)>
 
 Sherlock Holmes, Sir Arthur Conan Doyle tarafından oluşturulan hayali dedektif kahraman, polisiye edebiyatının önemli ilk figürlerinden biridir. Gazetelerde tefrika edilmiş, ve polisiyenin halk arasında popülerleşmesine vesile olmuştur. <p>
 Conan Doyle, bir noktada Holmes öyküleri yazmak dışında şeylerle uğraşmak ister, ve ``Son Soruşturma`` adlı hikayede Holmes`ü en büyük düşmanı Profesör Moriarity`nin öldürmesini sağlar, ancak halkın buna tepkisi büyük olur ve Conan Doyle`un diğer yazıları Holmes kadar başarılı olmayınca, Holmes yazarı tarafından uygun bir şekilde diriltilir.
