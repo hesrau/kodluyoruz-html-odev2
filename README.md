@@ -14,8 +14,23 @@ Merhaba. Ben Hatice E. ULUDAĞ. Antalya'da yaşıyorum. Genel olarak belli bir t
 <h3>İlgi Alanlarım</h3>
 <ol>
 <li>Fİlm</li>
+    <ul>
+        <li>Free Guy</li>
+        <li>Kung Fu Panda</li>
+        <li>Her Çocuk Özeldir</li>
+    </ul>
 <li>Dizi</li>
+    <ul>
+        <li>Esrarengiz Kasaba</li>
+        <li>Death Note</li>
+        <li>Erased</li>
+    </ul>
 <li>Kitap</li>
+    <ul>
+        <li>Sherlock Holmes</li>
+        <li>Harry Potter</li>
+        <li>Aklından Bir Sayı Tut</li>
+    </ul>
 </ol>
 
 
