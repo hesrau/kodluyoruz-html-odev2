@@ -33,11 +33,12 @@ Merhaba. Ben Hatice E. ULUDAĞ. Antalya'da yaşıyorum. Genel olarak belli bir t
     </ul>
 </ol>
 
+![sherlockresim](https://github.com/hesrau/kodluyoruz-html-odev2/assets/158181030/d29e228a-dbe3-4686-935d-09e9abda3e17)
 
 
 <h2>Sevdiğim Kitaplar</h2>
 <h3>Sherlock Holmes</h3>
-<img src=https://www.bing.com/images/search?view=detailV2&ccid=sBiEeEuT&id=7530F6DD3CC2551D84D6DCC281E559755E764ACD&thid=OIP.sBiEeEuT2QRfd9tWeRJLrAHaJ4&mediaurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61EW4oJnvZL._SL1068_.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.b01884784b93d9045f77db5679124bac%3Frik%3DzUp2XnVZ5YHC3A%26pid%3DImgRaw%26r%3D0&exph=1068&expw=800&q=sherlock+holmes+siyah+%c3%b6zel+bask%c4%b1&form=IRPRST&ck=B2FD9DD03E6B14D9B86A27628EA965D8&selectedindex=0&itb=0&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_RPm4TKzH*cp_76A9BCA98C0E2BF74CFE2206A1B31FCA*mid_E53AABB10D58FBB07187DD8A09D4B37D96DB4384*simid_607997594050315069*thid_OIP.RPm4TKzHLgTxRVEkPnETbAAAAA&vt=0&sim=11&iss=VSI&simid=608020975857841650&ajaxhist=0&ajaxserp=0 >
+<img src= >
 
 Sherlock Holmes, Sir Arthur Conan Doyle tarafından oluşturulan hayali dedektif kahraman, polisiye edebiyatının önemli ilk figürlerinden biridir. Gazetelerde tefrika edilmiş, ve polisiyenin halk arasında popülerleşmesine vesile olmuştur. <p>
 Conan Doyle, bir noktada Holmes öyküleri yazmak dışında şeylerle uğraşmak ister, ve ``Son Soruşturma`` adlı hikayede Holmes`ü en büyük düşmanı Profesör Moriarity`nin öldürmesini sağlar, ancak halkın buna tepkisi büyük olur ve Conan Doyle`un diğer yazıları Holmes kadar başarılı olmayınca, Holmes yazarı tarafından uygun bir şekilde diriltilir.
