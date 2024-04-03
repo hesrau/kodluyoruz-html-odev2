@@ -34,7 +34,7 @@ Merhaba. Ben Hatice E. ULUDAĞ. Antalya'da yaşıyorum. Genel olarak belli bir t
 </ol>
 
 
-![sherlockresim](https://github.com/hesrau/kodluyoruz-html-odev2/assets/158181030/509c14c9-9527-4df5-87b4-83da736f7cfa)
+
 
 
 <h2>Sevdiğim Kitaplar</h2>
