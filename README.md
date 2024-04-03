@@ -37,7 +37,8 @@ Merhaba. Ben Hatice E. ULUDAĞ. Antalya'da yaşıyorum. Genel olarak belli bir t
 
 <h2>Sevdiğim Kitaplar</h2>
 <h3>Sherlock Holmes</h3>
-<img src=C:\Users\lenovo\Downloads/sherlock.jpg >
+<img src=[C:\Users\lenovo\Downloads/sherlock.jpg](https://www.bing.com/images/search?view=detailV2&ccid=fOs%2fzbt8&id=377D835938760978FE6248112F51D679C4E3E021&thid=OIP.fOs_zbt8DggG5l9cGHUregAAAA&mediaurl=https%3a%2f%2fcdn.akakce.com%2fz%2f-%2fsherlock-holmes-butun-lari-tek-cilt-ozel-basim-ciltli-sir-arthur-conan-doyle.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7ceb3fcdbb7c0e0806e65f5c18752b7a%3frik%3dIeDjxHnWUS8RSA%26pid%3dImgRaw%26r%3d0&exph=490&expw=365&q=sherlock+holmes+siyah+%c3%b6zel+bask%c4%b1&simid=608016135410631418&FORM=IRPRST&ck=42B7D50C5E58A9DF51D8CBA86F415A0F&selectedIndex=3&itb=0) >
+
 Sherlock Holmes, Sir Arthur Conan Doyle tarafından oluşturulan hayali dedektif kahraman, polisiye edebiyatının önemli ilk figürlerinden biridir. Gazetelerde tefrika edilmiş, ve polisiyenin halk arasında popülerleşmesine vesile olmuştur. <p>
 Conan Doyle, bir noktada Holmes öyküleri yazmak dışında şeylerle uğraşmak ister, ve ``Son Soruşturma`` adlı hikayede Holmes`ü en büyük düşmanı Profesör Moriarity`nin öldürmesini sağlar, ancak halkın buna tepkisi büyük olur ve Conan Doyle`un diğer yazıları Holmes kadar başarılı olmayınca, Holmes yazarı tarafından uygun bir şekilde diriltilir.
 </body>
